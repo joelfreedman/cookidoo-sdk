@@ -1,0 +1,224 @@
+[
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/community/profile/en-US",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "request_headers": {
+      "accept": "application/json"
+    },
+    "body": {
+      "id": "8b2b53ea-3bf4-45da-b9e0-b308def80d8a",
+      "savedSearches": [
+        {
+          "id": "default",
+          "search": {
+            "countries": [],
+            "languages": [
+              "en"
+            ],
+            "tmv": [
+              "TM7",
+              "TM6"
+            ],
+            "accessories": [
+              "includingBladeCover",
+              "includingBladeCoverWithPeeler",
+              "includingCutter",
+              "includingSensor"
+            ]
+          }
+        }
+      ],
+      "foodPreferences": [],
+      "isPublic": false,
+      "userInfo": {
+        "username": "Megan",
+        "picture": "https://assets.tmecosys.com/image/upload/v1753818264/community-profile/91c2c245bae2bb103324107500c06826614564b70cd2036e89631b010cd91750.jpg",
+        "pictureTemplate": "https://assets.tmecosys.com/image/upload/{transformation}/v1753818264/community-profile/91c2c245bae2bb103324107500c06826614564b70cd2036e89631b010cd91750.jpg"
+      },
+      "meta": {
+        "cloudinaryPublicId": "91c2c245bae2bb103324107500c06826614564b70cd2036e89631b010cd91750"
+      },
+      "thermomixes": []
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/profile/api/user",
+    "status": 200,
+    "content_type": "application/json",
+    "request_headers": {
+      "accept": "application/json"
+    },
+    "body": {
+      "dcid": "8b2b53ea-3bf4-45da-b9e0-b308def80d8a",
+      "country_of_residence": "US",
+      "firstname": "Megan",
+      "lastname": null
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/commerce/api/subscriptions/churn-feedback",
+    "status": 307,
+    "content_type": "",
+    "request_headers": {},
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r493954",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r493954\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r124166",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r124166\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r536575",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r536575\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r71956",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r71956\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r120355",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r120355\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r78476",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r78476\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r132105",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r132105\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r78984",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r78984\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r124176",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r124176\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r150434",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r150434\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r80296",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r80296\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/transclude/manage-bookmark-icon/r77112",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  \n  <core-bookmark-icon is-bookmarked=\"false\" bookmark-api-url=\"/organize/en-US/api/bookmark\" recipe-id=\"r77112\" add-success-message=\"Recipe was saved as a bookmark\" remove-success-message=\"Recipe was removed from bookmarks\">\n    <button class=\"button--inline button--icon\">\n      <span class=\"icon icon--bookmark-added\"></span>\n      <span class=\"icon icon--bookmark\"></span>\n    </button>\n  </core-bookmark-icon>\n\n  \n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/commerce/en-US/api/subscriptions/churn-feedback",
+    "status": 200,
+    "content_type": "application/json",
+    "request_headers": {},
+    "body": {
+      "possible": false
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/planning/en-US/my-week",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/planning/en-US/api/my-day/planned-recipes/2026-09-01?span=1",
+    "status": 200,
+    "content_type": "application/json",
+    "request_headers": {},
+    "body": {
+      "dayKeys": [
+        "2026-08-09",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-20",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-09-01",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-20",
+        "2026-09-25",
+        "2026-09-26"
+      ]
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/planning/en-US/calendar/week?date=2026-09-27&today=2026-09-27",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": "\n  <div class=\"my-week-empty__container\">\n    <div class=\"my-week-empty__gradient\"></div>\n    \n  <section class=\"timeline-content\">\n    \n      <article class=\"timeline--empty timeline-entry--emphased\">\n        <core-image-loader>\n          \n          <img src=\"https://planningpublic-all.prod.external.eu-tm-prod.vorwerk-digital.com/pl-planning/cook_today_empty_cicd2-8e5634bb8cf63159c5cb19c42593a704.svg\">\n        </core-image-loader>\n        <aside>\n          \n  \n    <h6>No recipes planned</h6>\n    <p>Currently there are no recipes planned.\nWhy not try something new?</p>\n  \n  \n\n          \n          <plan-recommendation-toogle\n                  data-reco-href=\"/planning/en-US/my-week/recommendation?token=8b2b53ea\"\n                  data-search-href=\"/search/en-US\"\n                  class=\"button button--secondary\">\n            Get inspired\n          </plan-recommendation-toogle>\n        </aside>\n      </article>\n    \n    \n  </section>\n\n  </div>\n  \n    <plan-customer-recipe-batch style=\"display:none;\" url=\"/created-recipes/en-US/\" timeout=\"0\" request-limit=\"50\">\n        <ul class=\"recipebatch__list\">\n            \n            \n                \n            \n                \n            \n                \n            \n                \n            \n                \n            \n        </ul>\n    </plan-customer-recipe-batch>\n\n  <ol class=\"my-week\" id=\"my-week\" data-week=\"39\">\n    \n  <li class=\"my-week__day my-week__today \">\n    <plan-week-day href=\"/planning/en-US/calendar/planned-recipes/2026-09-27\" date=\"2026-09-27\">\n      <header class=\"my-week__header\">\n        <time datetime=\"2026-09-27\">\n          <span class=\"my-week__day-short\">Today</span>\n          \n          <span class=\"my-week__day-number\">27</span>\n        </time>\n      </header>\n      <ul class=\"my-week__recipe-list\">\n        \n        \n      </ul>\n    </plan-week-day>\n  </li>\n\n  <li class=\"my-week__day  \">\n    <plan-week-day href=\"/planning/en-US/calendar/planned-recipes/2026-09-28\" date=\"2026-09-28\">\n      <header class=\"my-week__header\">\n        <time datetime=\"2026-09-28\">\n          <span class=\"my-week__day-short\">Monday</span>\n          \n          <span class=\"my-week__day-number\">28</span>\n        </time>\n      </header>\n      <ul class=\"my-week__recipe-list\">\n        \n        \n      </ul>\n    </plan-week-day>\n  </li>\n\n  <li class=\"my-week__day  \">\n    <plan-week-day href=\"/planning/en-US/calendar/planned-recipes/2026-09-29\" date=\"2026-09-29\">\n      <header class=\"my-week__header\">\n        <time datetime=\"2026-09-29\">\n          <span class=\"my-week__day-short\">Tuesday</span>\n          \n          <span class=\"my-week__day-number\">29</span>\n        </time>\n      </header>\n      <ul class=\"my-week__recipe-list\">\n        \n        \n      </ul>\n    </plan-week-day>\n  </li>\n\n  <li class=\"my-week__day  \">\n    <plan-week-day href=\"/planning/en-US/calendar/planned-recipes/2026-09-30\" date=\"2026-09-30\">\n      <header class=\"my-week__header\">\n        <time datetime=\"2026-09-30\">\n          <span class=\"my-week__day-short\">Wednesday</span>\n          \n          <span class=\"my-week__day-number\">30</span>\n        </time>\n      </header>\n      <ul class=\"my-week__recipe-list\">\n        \n        \n      </ul>\n    </plan-week-day>\n  </li>\n\n  <li class=\"my-week__day  \">\n    <plan-week-day href=\"/planning/en-US/calendar/planned-recipes/2026-10-01\" date=\"2026-10-01\">\n      <header class=\"my-week__header\">\n        <time datetime=\"2026-10-01\">\n          <span class=\"my-week__day-short\">Thursday</span>\n          \n          <span class=\"my-week__day-number\">1</span>\n        </time>\n      </header>\n      <ul class=\"my-week__recipe-list\">\n        \n        \n      </ul>\n    </plan-week-day>\n  </li>\n\n  </ol>\n"
+  },
+  {
+    "method": "GET",
+    "url": "https://cookidoo.thermomix.com/organize/en-US/my-recipes",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "request_headers": {},
+    "body": null
+  }
+]

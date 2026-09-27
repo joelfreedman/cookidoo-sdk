@@ -1,0 +1,77 @@
+# Environment & Credentials (NEVER commit secrets!)
+.env
+.env.*
+*.env
+!.env.example
+.cookidoo_session.json
+*.session.json
+session*.json
+credentials*.json
+secrets*.json
+*.pem
+*.key
+cookies*.txt
+
+# Local SQLite databases & library cache
+.cookidoo_library.db
+.cookidoo_library.db*
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Python build & packaging artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+flows/
+
+# OS & Editor artifacts
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Screenshots & images (NEVER commit screenshots or UI captures)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+screenshots/
+**/screenshots/

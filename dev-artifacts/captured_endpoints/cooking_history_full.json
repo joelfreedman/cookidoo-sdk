@@ -1,0 +1,1524 @@
+{
+  "userId": "8b2b53ea-3bf4-45da-b9e0-b308def80d8a",
+  "entries": [
+    {
+      "details": {
+        "timestamp": "2026-09-26T19:56:59.882Z"
+      },
+      "recipe": {
+        "asciiTitle": "Sandwich bread",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r63350",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/6DE1380E-2BDC-4B0A-BCCD-45928EEA679C/Derivates/D44D5263-244D-44DC-8532-513DCC8FEB69.jpg",
+        "title": "Sandwich bread",
+        "totalTime": "10800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-25T23:15:25.002Z"
+      },
+      "recipe": {
+        "asciiTitle": "Steamed rice",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r66939",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/b6c72fb2820ca8b22bc39e8c00eaf37b/Derivates/f17d9e3c4cd379612be87fea02be83d7fe0322f4.jpg",
+        "title": "Steamed rice",
+        "totalTime": "1500.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-20T21:38:59.732Z"
+      },
+      "recipe": {
+        "asciiTitle": "Quick porridge",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r256199",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/258F891B-5D6A-49C9-8D9E-5FC64CE7F733/Derivates/C370F28C-1FC4-43AE-996E-C841B40FA18F.jpg",
+        "title": "Quick porridge",
+        "totalTime": "600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-20T18:46:01.895Z"
+      },
+      "recipe": {
+        "id": "01M2ZZ93XW9F4XDVA75YPWCEJJ",
+        "title": "Gluten Free Orange Syrup Almond Cake",
+        "assets": {
+          "images": {
+            "square": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg",
+            "portrait": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg",
+            "landscape": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg"
+          }
+        },
+        "landscapeImage": "https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg 442w, https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg 331w, https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/prod/img/customer-recipe/w4wyke7twqrhvlecv15q.jpg 221w",
+        "type": "CUSTOMER"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-19T22:32:25.395Z"
+      },
+      "recipe": {
+        "asciiTitle": "Pizza dough",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r760387",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/865a754f1ff37877546ec723fbf84a66/Derivates/d2f78a8f4c211efa6672bc5d82246c22bc5fc5d1.jpg",
+        "title": "Pizza dough",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-10T23:00:47.532Z"
+      },
+      "recipe": {
+        "asciiTitle": "Lamb Koftas",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r116871",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/30E766F0-5930-4B19-AB50-FE16226609CD/Derivates/ED45AF76-C765-404D-96AB-F3DD4BB6486C.jpg",
+        "title": "Lamb Koftas",
+        "totalTime": "5400.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-09T23:01:08.999Z"
+      },
+      "recipe": {
+        "asciiTitle": "Pea and ginger soup, lemon salmon with broccoli",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r156149",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1500.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg",
+        "title": "Pea and ginger soup, lemon salmon with broccoli",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-09-04T21:03:34.147Z"
+      },
+      "recipe": {
+        "asciiTitle": "Basic vanilla cake (improved)",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r138789",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/6DAB259D-EAC6-4BD7-8440-12759B4F2E94/Derivates/E3310CFA-8B2C-4C53-A46E-572D6DFB4615.jpg",
+        "title": "Basic vanilla cake (improved)",
+        "totalTime": "3300.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-31T21:50:47.658Z"
+      },
+      "recipe": {
+        "asciiTitle": "Salmon and Leek Parcel with New Potatoes",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r365787",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1800.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "title": "Salmon and Leek Parcel with New Potatoes",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-30T03:15:44.32Z"
+      },
+      "recipe": {
+        "asciiTitle": "White chocolate and cardamom buckwheat cookies",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r112636",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/C2DE2C91-CC04-4695-8E12-6B55BC842384/Derivates/7EBAC773-D7A6-46F5-942B-BEA9757E38EE.jpg",
+        "title": "White chocolate and cardamom buckwheat cookies",
+        "totalTime": "3300.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-23T22:25:57.949Z"
+      },
+      "recipe": {
+        "asciiTitle": "Chocolate Strawberry Energy Bites",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r340303",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/46404C79-AFDE-419D-99BB-378907A92999/Derivates/48fd824c-4e09-47b6-9cbb-4fd2d6c9e3f8.jpg",
+        "title": "Chocolate Strawberry Energy Bites",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-20T22:13:09.457Z"
+      },
+      "recipe": {
+        "asciiTitle": "Fattoush with grilled haloumi",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r903915",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/25A4064C-63E7-4569-8199-4C1FB269F18D/Derivates/81CCC60D-6476-47E8-AFBD-CA56BF4AF63C.jpg",
+        "title": "Fattoush with grilled haloumi",
+        "totalTime": "18000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-18T22:16:58.392Z"
+      },
+      "recipe": {
+        "asciiTitle": "LCHF chicken Kyivs (Skinnymixers)",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r504740",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1500.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/0ED23893-5AC3-4AA9-8C18-E7AD8C7D0326/Derivates/b6dddfd1-825e-45a4-9501-b336a8921748.jpg",
+        "title": "LCHF chicken Kyivs (Skinnymixers)",
+        "totalTime": "2400.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-17T23:39:48.28Z"
+      },
+      "recipe": {
+        "asciiTitle": "Quick Thai Chicken Curry",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r91264",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/a42ce247ae9412b9f703e66284ba1ddb/Derivates/cfd8b68cab16f0c8cadf8d1ee2c45645f688dfc5.jpg",
+        "title": "Quick Thai Chicken Curry",
+        "totalTime": "2400.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-08-09T22:59:10.469Z"
+      },
+      "recipe": {
+        "asciiTitle": "Teriyaki salmon bowl",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r145108",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E88202E6-DB81-4292-A4CB-CF3F77B0A401/Derivates/498C3A7F-CA5E-4703-B767-0D134E03AB83.jpg",
+        "title": "Teriyaki salmon bowl",
+        "totalTime": "4500.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-15T22:36:02.348Z"
+      },
+      "recipe": {
+        "asciiTitle": "Meatballs with Tomato Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r91198",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/a209a24a8760600fffefbae5d7ffb1f6c963b306.jpg",
+        "title": "Meatballs with Tomato Sauce",
+        "totalTime": "2700.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-14T22:53:26.707Z"
+      },
+      "recipe": {
+        "asciiTitle": "Salmon and Leek Parcel with New Potatoes",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r818827",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1800.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/FE8F5703-57EF-4F1C-ACA9-9C36CCB92B73/Derivates/176ba898-8b75-42b8-8173-8885af711eee.jpg",
+        "title": "Salmon and Leek Parcel with New Potatoes",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-10T22:20:49.471Z"
+      },
+      "recipe": {
+        "asciiTitle": "Doner Kebab",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r934910",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/4acc79805d7a8573b51a05e57a545f70/Derivates/4dd7148e235cdc4a93fcbf7c05f0f7942d1e3497.jpg",
+        "title": "Doner Kebab",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-08T22:34:16.394Z"
+      },
+      "recipe": {
+        "asciiTitle": "Sinigang na salmon fillet",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r923985",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/bb923455fc545609c9b0d8ea1c0ce834/Derivates/80239ed266a5cc0c0f4220ede3b4e42527a3254d.jpg",
+        "title": "Sinigang na salmon fillet",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-05T22:31:32.242Z"
+      },
+      "recipe": {
+        "asciiTitle": "Beef Lasagna",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r547143",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1500.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg",
+        "title": "Beef Lasagna",
+        "totalTime": "7500.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-06-01T22:55:52.679Z"
+      },
+      "recipe": {
+        "asciiTitle": "Maple Teriyaki Salmon with Rice and Broccoli",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r790887",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/b97bc0b78c21321f0a29fca45e217952/Derivates/544dc0be2d361616bb7dbdaad78af83c26df6be8.jpg",
+        "title": "Maple Teriyaki Salmon with Rice and Broccoli",
+        "totalTime": "3900.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-31T17:11:59.481Z"
+      },
+      "recipe": {
+        "asciiTitle": "Vietnamese jackfruit rice paper rolls",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r179752",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "2400.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/1A64A3B2-D3AB-433C-895C-FF65098893A8/Derivates/1fdf2061-1f7f-4dbb-9d7c-84a7257265f0.jpg",
+        "title": "Vietnamese jackfruit rice paper rolls",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-30T21:38:45.148Z"
+      },
+      "recipe": {
+        "asciiTitle": "Flourless Chocolate and Nut Torte (gluten free)",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r133508",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/98E83526-966E-45B2-951B-4ADCB1DE3A39/Derivates/8695803A-EB17-4B24-BE8C-9C9D9960B53E.jpg",
+        "title": "Flourless Chocolate and Nut Torte (gluten free)",
+        "totalTime": "6600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-21T15:51:51.481Z"
+      },
+      "recipe": {
+        "asciiTitle": "Buckwheat and Butternut Squash Risotto",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r167819",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/ccf0e5fa-0e5a-49d8-972e-b58f9964525b/Derivates/12bd2f55ca4cbec4fda0591d985b95befb1c4c16.jpg",
+        "title": "Buckwheat and Butternut Squash Risotto",
+        "totalTime": "2100.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-20T23:30:58.705Z"
+      },
+      "recipe": {
+        "asciiTitle": "Ethiopian Meat Stew (Zighini)",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r929641",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/18c05a2b-7956-4080-9d6c-258f1b949764/Derivates/91775b72-b84a-487b-88ee-ccc92ef3512c.jpg",
+        "title": "Ethiopian Meat Stew (Zighin\u00ec)",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-12T22:33:08.35Z"
+      },
+      "recipe": {
+        "asciiTitle": "Teriyaki Chicken",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r718969",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/348340e6-9ce4-434e-8808-0d004bac1f1f/Derivates/9f4f2742-1fb2-4075-9d37-0bfbf860dca5.jpg",
+        "title": "Teriyaki Chicken",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-11T22:37:55.994Z"
+      },
+      "recipe": {
+        "id": "01JK3V7MSPR8HY6ZPMD8FMQ7R8",
+        "title": "Buckwheat & chia bread",
+        "assets": {
+          "images": {
+            "square": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg",
+            "portrait": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg",
+            "landscape": "https://ugc.assets.tmecosys.com/image/upload/{transformation}/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg"
+          }
+        },
+        "landscapeImage": "https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg 442w, https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg 331w, https://ugc.assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/prod/img/customer-recipe/gw1eafnqhseq4qvridyk.jpg 221w",
+        "type": "CUSTOMER"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-05-05T22:43:20.169Z"
+      },
+      "recipe": {
+        "asciiTitle": "Simple steamed salmon",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r150503",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/BCEA8F4A-3604-4C65-811A-941CBD18BCDC/Derivates/1541FCAA-467B-41C8-852D-D8B4AD503B41.jpg",
+        "title": "Simple steamed salmon",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-28T22:28:46.083Z"
+      },
+      "recipe": {
+        "asciiTitle": "Indian kofta curry with broccoli rice",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r586915",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/0dc91b32-0253-48ab-9b20-431de5f5c32c/Derivates/711389a7-4049-4bd6-80b3-1f4a73b80324.jpg",
+        "title": "Indian kofta curry with broccoli rice",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-26T17:24:31.124Z"
+      },
+      "recipe": {
+        "asciiTitle": "Braised cabbage and leek with steamed salmon",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r616632",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/2b3416ba-5ab4-4ae0-89f9-0b2a36d60101/Derivates/4a539e88-ce96-4cb0-bc11-4a4110e48a3f.jpg",
+        "title": "Braised cabbage and leek with steamed salmon",
+        "totalTime": "2700.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-26T14:50:58.764Z"
+      },
+      "recipe": {
+        "asciiTitle": "Almond and blueberry breakfast muffins",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r625147",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/68dba1fc-cc29-461e-8c3c-540f91cbba14/Derivates/469d2c85-6dc3-4d05-8143-6dbeb56ad68c.jpg",
+        "title": "Almond and blueberry breakfast muffins",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-15T22:34:41.338Z"
+      },
+      "recipe": {
+        "asciiTitle": "Chicken Satay with Peanut Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r923833",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/5dd423b0ab7ae788d447883f6c78628b/Derivates/14f19d385a1ec14f428c21a30513090e6d4e3a32.jpg",
+        "title": "Chicken Satay with Peanut Sauce",
+        "totalTime": "16200.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-08T23:16:34.729Z"
+      },
+      "recipe": {
+        "asciiTitle": "Brazilian Cheese Puffs",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r751746",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E015224E-C847-41D1-8E71-0996F4508C97/Derivates/2D9FAE25-00C7-4821-BE78-588930E67509.jpg",
+        "title": "Brazilian Cheese Puffs",
+        "totalTime": "1200.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-04-02T12:12:44.335Z"
+      },
+      "recipe": {
+        "asciiTitle": "Sweet Onion and Maple BBQ Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r811998",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/E40A3090-4EE8-4051-8581-05E4EB3F4683/Derivates/585633D1-9F24-44EE-AA4F-AE9B29D7E366.jpg",
+        "title": "Sweet Onion and Maple BBQ Sauce",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-03-29T15:10:48.216Z"
+      },
+      "recipe": {
+        "asciiTitle": "Virgin Apple Cider Old Fashioned",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r929567",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/674833e23967d0a7f6c101ad0c8fbb2f/Derivates/a8e4a85bf078b8723dfea06d36dc5232a99ad3a2.jpg",
+        "title": "Virgin Apple Cider Old Fashioned",
+        "totalTime": "3000.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-03-09T21:15:16.837Z"
+      },
+      "recipe": {
+        "asciiTitle": "Lemon Rosemary Chicken and Rice",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r786968",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/c7ae730553e61b397d86d017c16e4d40/Derivates/a68b01c288e86962d79a91ad98ad936a9234613a.jpg",
+        "title": "Lemon Rosemary Chicken and Rice",
+        "totalTime": "3300.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-02-17T23:16:44.567Z"
+      },
+      "recipe": {
+        "asciiTitle": "Meat Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r765608",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/ef8fd5ae742fbb3dc0748d2bdbc82768/Derivates/804c9b02b4dc06d4315666374399aad3f570f16e.jpg",
+        "title": "Meat Sauce",
+        "totalTime": "6300.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-02-05T00:03:35.687Z"
+      },
+      "recipe": {
+        "asciiTitle": "Meatballs with Tomato Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r914300",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "title": "Meatballs with Tomato Sauce",
+        "totalTime": "2700.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-24T23:09:57.896Z"
+      },
+      "recipe": {
+        "asciiTitle": "Chicken, spinach and leek risotto",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r803757",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/adbd3a83268a5837982c918a8ba49b83/Derivates/d170505ca76bbb99aa9c4e5040750541ee11e7a0.jpg",
+        "title": "Chicken, spinach and leek risotto",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-21T23:53:27.504Z"
+      },
+      "recipe": {
+        "asciiTitle": "Meatballs with Tomato Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r178884",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1200.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/da8bb8d6f73d46d01ab80f2fcac14630/Derivates/adfa1e368dd5baee95a5c3f567823753ba2161c0.jpg",
+        "title": "Meatballs with Tomato Sauce",
+        "totalTime": "2700.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-18T22:52:15.872Z"
+      },
+      "recipe": {
+        "asciiTitle": "\"Marry me\" chicken pasta",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r920388",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/1e0eedf6868f3728466dcd40ed207ffc/Derivates/75b78a3deaee12a4a7cdcae592594c97601c7591.jpg",
+        "title": "\"Marry me\" chicken pasta",
+        "totalTime": "2100.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-17T20:11:58.255Z"
+      },
+      "recipe": {
+        "asciiTitle": "Baked chocolate ricotta with blueberries and cream",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r71922",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/B621B271-4F6D-4DCA-92B4-3381EF19A428/Derivates/03168E91-F19C-46F3-B38A-A7C883226916.jpg",
+        "title": "Baked chocolate ricotta with blueberries and cream",
+        "totalTime": "3300.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-13T00:26:59.684Z"
+      },
+      "recipe": {
+        "asciiTitle": "Macadamia protein balls with coconut butter",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r71115",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/06117B6D-A00E-444C-8E48-8FFD167B6A10/Derivates/899850EA-0056-406A-87CB-C7272384B4CE.jpg",
+        "title": "Macadamia protein balls with coconut butter",
+        "totalTime": "2400.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2026-01-11T23:20:50.939Z"
+      },
+      "recipe": {
+        "asciiTitle": "Greek Vegetables",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r168075",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1800.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/15390339-F750-4441-9432-E0CCBFEF2877/Derivates/c4a5af61-608a-4cee-9a95-787e7eda413b.jpg",
+        "title": "Greek Vegetables",
+        "totalTime": "3600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-12-10T22:54:02.434Z"
+      },
+      "recipe": {
+        "asciiTitle": "Beef stroganoff",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r68522",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/7E52D5BB-302A-450A-AA11-0AC82D4DB291/Derivates/D599BCC8-E9C6-415A-94F0-2695C7087FEB.jpg",
+        "title": "Beef stroganoff",
+        "totalTime": "2100.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-12-09T23:39:14.785Z"
+      },
+      "recipe": {
+        "asciiTitle": "Chicken, Spinach and Leek Risotto",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r286174",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/214AE65C-5F15-4761-85AC-27CAA50AAF2B/Derivates/8e9c6b48-782d-4904-abd3-acc69de8b571.jpg",
+        "title": "Chicken, Spinach and Leek Risotto",
+        "totalTime": "1800.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-12-02T23:43:41.621Z"
+      },
+      "recipe": {
+        "asciiTitle": "Pavlova",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r68950",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/75CA8DFD-C4BF-4524-8DC9-7DEB8DC8E340/Derivates/B21D7C51-C3F8-41F1-B867-FC42C61956C9.jpg",
+        "title": "Pavlova",
+        "totalTime": "21600.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-11-11T13:15:52.213Z"
+      },
+      "recipe": {
+        "asciiTitle": "Holiday Brisket",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r674229",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "900.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/785b46c7-d53c-4aca-95c1-4039f500effd/Derivates/18d66c98-b330-4fcf-b69d-0ff74a896075.jpg",
+        "title": "Holiday Brisket",
+        "totalTime": "24900.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-11-06T01:03:50.018Z"
+      },
+      "recipe": {
+        "asciiTitle": "Chai Tea",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r91354",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "300.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/596a55d3-6fdd-47eb-ac4f-e3ffd7826ced/Derivates/1804130d-0d44-4236-a08f-71ba08fb3ad3.jpg",
+        "title": "Chai Tea",
+        "totalTime": "900.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-11-03T23:54:41.84Z"
+      },
+      "recipe": {
+        "asciiTitle": "Carrot gnocchi with zucchini cream",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r120358",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "1800.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/7A0C4219-3E01-46DF-9F98-6D6FE660122D/Derivates/DCE908C7-7A11-4423-A69B-154814E45E4A.jpg",
+        "title": "Carrot gnocchi with zucchini cream",
+        "totalTime": "4500.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-11-03T00:05:34.866Z"
+      },
+      "recipe": {
+        "asciiTitle": "Shredded Chicken and Vegetable Lettuce Cups",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r168065",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "3600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/242d2799-2a71-447e-a777-0aa8fd988d4e/Derivates/fde05db4-9e2b-457b-979d-a9f0c22ece41.jpg",
+        "title": "Shredded Chicken and Vegetable Lettuce Cups",
+        "totalTime": "4500.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-10-26T22:56:53.224Z"
+      },
+      "recipe": {
+        "asciiTitle": "Leek and Potato Soup",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r825684",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/a1dab1ca0ab9c969b553fce75ce97dd5/Derivates/9986377bfc795a85bbd202e7bb82a932dd52c337.jpg",
+        "title": "Leek and Potato Soup",
+        "totalTime": "2400.0",
+        "type": "VORWERK"
+      }
+    },
+    {
+      "details": {
+        "timestamp": "2025-10-23T22:21:33.588Z"
+      },
+      "recipe": {
+        "asciiTitle": "Salmon with Vegetable Sauce",
+        "assets": {
+          "images": {
+            "square": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd",
+            "portrait": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd",
+            "landscape": "https://assets.tmecosys.com/image/upload/{transformation}/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd"
+          }
+        },
+        "favoriteCount": null,
+        "id": "r912333",
+        "landscapeImage": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg",
+        "locale": "",
+        "portion": null,
+        "prepTime": "600.0",
+        "responsiveImageSizes": "(min-width: 1333px) 276px, (min-width: 1024px) 286px, (min-width: 768px) 220px, 140px",
+        "responsiveImageSrcset": "https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_2x/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg 442w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240_1_5x/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg 331w, https://assets.tmecosys.com/image/upload/t_web_shared_recipe_221x240/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg 221w",
+        "squareImage": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg",
+        "squareImageSrcSet": "https://assets.tmecosys.com/image/upload/t_web72x72/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg 1x, https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg 2x",
+        "squareRetinaImage": "https://assets.tmecosys.com/image/upload/t_web72x72@2x/img/recipe/ras/Assets/53f9ab887c4f9a6ab5c512a46e8148b1/Derivates/af3d916d2ee65205a1f23668d41b2f4df5ac1ffd.jpg",
+        "title": "Salmon with Vegetable Sauce",
+        "totalTime": "1500.0",
+        "type": "VORWERK"
+      }
+    }
+  ]
+}
