@@ -45,6 +45,10 @@ class CustomRecipe(BaseModel):
     def portions(self) -> Union[int, float]:
         return self.recipeContent.recipeYield.value
 
+    @property
+    def tools(self) -> List[str]:
+        return self.recipeContent.tool
+
 
 class CustomRecipeListResponse(BaseModel):
     items: List[CustomRecipe] = Field(default_factory=list)

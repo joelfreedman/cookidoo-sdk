@@ -83,6 +83,7 @@ class CookidooClient:
         from .sync import CookidooSyncManager
         self.storage = storage or (CookidooStorage(db_path=db_path) if db_path else CookidooStorage())
         self.sync_manager = CookidooSyncManager(client=self, storage=self.storage, max_active=max_active_recipes)
+        self._algolia_key: Optional[str] = None
 
 
     def _request(
@@ -317,12 +318,21 @@ class CookidooClient:
         self,
         name: str,
         ingredients: Optional[List[str]] = None,
-        instructions: Optional[List[str]] = None,
+        instructions: Optional[List[Union[str, Dict]]] = None,
         portions: int = 4,
-        tool: str = "TM6"
+        tools: Optional[Union[str, List[str]]] = None,
+        tool: Optional[str] = None
     ) -> CustomRecipe:
         """
-        Creates a new custom recipe on Cookidoo with ingredients, steps, and portion yield.
+        Creates a new custom recipe on Cookidoo with ingredients, steps, portion yield,
+        and device compatibility (e.g. TM7, TM6, TM5).
+
+        :param name: Recipe title
+        :param ingredients: List of ingredient strings
+        :param instructions: List of step strings or structured step dicts with annotations
+        :param portions: Number of servings (portions)
+        :param tools: Target Thermomix appliances (e.g. "TM7", ["TM7"], ["TM6", "TM7"])
+        :param tool: Legacy single tool alias (e.g. "TM6")
         """
         # Step 1: Create draft recipe
         resp = self._request(
@@ -341,12 +351,22 @@ class CookidooClient:
                 json_data={"ingredients": [{"type": "INGREDIENT", "text": ing} for ing in ingredients]}
             )
 
-        # Step 3: Patch instructions if provided
+        # Step 3: Patch instructions if provided (supports strings or structured steps with annotations)
         if instructions:
+            step_objects = []
+            for step in instructions:
+                if isinstance(step, dict):
+                    step_dict = dict(step)
+                    if "type" not in step_dict:
+                        step_dict["type"] = "STEP"
+                    step_objects.append(step_dict)
+                else:
+                    step_objects.append({"type": "STEP", "text": str(step)})
+
             self._request(
                 "PATCH",
                 f"created-recipes/{self.locale}/{recipe_id}",
-                json_data={"instructions": [{"type": "STEP", "text": step} for step in instructions]}
+                json_data={"instructions": step_objects}
             )
 
         # Step 4: Patch portions/yield if different from default
@@ -355,6 +375,19 @@ class CookidooClient:
                 "PATCH",
                 f"created-recipes/{self.locale}/{recipe_id}",
                 json_data={"yield": {"value": portions, "unitText": "portion"}}
+            )
+
+        # Step 5: Patch device tools if specified (e.g. TM7, TM6, TM5)
+        target_tools = tools if tools is not None else tool
+        if target_tools is not None:
+            if isinstance(target_tools, str):
+                tools_list = [target_tools.upper()]
+            else:
+                tools_list = [t.upper() for t in target_tools]
+            self._request(
+                "PATCH",
+                f"created-recipes/{self.locale}/{recipe_id}",
+                json_data={"tools": tools_list}
             )
 
         # Return full refreshed custom recipe
@@ -376,11 +409,12 @@ class CookidooClient:
         recipe_id: str,
         name: Optional[str] = None,
         ingredients: Optional[List[str]] = None,
-        instructions: Optional[List[str]] = None,
-        portions: Optional[int] = None
+        instructions: Optional[List[Union[str, Dict]]] = None,
+        portions: Optional[int] = None,
+        tools: Optional[Union[str, List[str]]] = None
     ) -> CustomRecipe:
         """
-        Updates an existing custom recipe's title, ingredients, instructions, or portions.
+        Updates an existing custom recipe's title, ingredients, instructions, portions, or appliances.
         """
         if name:
             self._request("PATCH", f"created-recipes/{self.locale}/{recipe_id}", json_data={"name": name})
@@ -391,16 +425,36 @@ class CookidooClient:
                 json_data={"ingredients": [{"type": "INGREDIENT", "text": ing} for ing in ingredients]}
             )
         if instructions is not None:
+            step_objects = []
+            for step in instructions:
+                if isinstance(step, dict):
+                    step_dict = dict(step)
+                    if "type" not in step_dict:
+                        step_dict["type"] = "STEP"
+                    step_objects.append(step_dict)
+                else:
+                    step_objects.append({"type": "STEP", "text": str(step)})
+
             self._request(
                 "PATCH",
                 f"created-recipes/{self.locale}/{recipe_id}",
-                json_data={"instructions": [{"type": "STEP", "text": step} for step in instructions]}
+                json_data={"instructions": step_objects}
             )
         if portions is not None:
             self._request(
                 "PATCH",
                 f"created-recipes/{self.locale}/{recipe_id}",
                 json_data={"yield": {"value": portions, "unitText": "portion"}}
+            )
+        if tools is not None:
+            if isinstance(tools, str):
+                tools_list = [tools.upper()]
+            else:
+                tools_list = [t.upper() for t in tools]
+            self._request(
+                "PATCH",
+                f"created-recipes/{self.locale}/{recipe_id}",
+                json_data={"tools": tools_list}
             )
         return self.get_created_recipe(recipe_id)
 
@@ -641,6 +695,28 @@ class CookidooClient:
         resp = self._request("DELETE", f"recipe-notes/{self.locale}/recipes/{recipe_id}")
         return resp.status_code in (200, 204)
 
+    def _get_algolia_key(self, force_refresh: bool = False) -> str:
+        """
+        Retrieves the dynamic Algolia search API key from Cookidoo search configuration.
+        Auto-refreshes when expired or upon request.
+        """
+        if self._algolia_key and not force_refresh:
+            return self._algolia_key
+
+        try:
+            resp = self._http.get(f"{self.base_url}/search/{self.locale}")
+            if resp.status_code == 200:
+                idx = resp.text.find('"apiKey":"')
+                if idx != -1:
+                    end_idx = resp.text.find('"', idx + 10)
+                    if end_idx != -1:
+                        self._algolia_key = resp.text[idx + 10:end_idx]
+                        return self._algolia_key
+        except Exception:
+            pass
+
+        return self._algolia_key or ALGOLIA_SEARCH_KEY
+
     # -------------------------------------------------------------
     # 7. Search & Catalog (Algolia)
     # -------------------------------------------------------------
@@ -663,10 +739,11 @@ class CookidooClient:
         elif sort_by == "publishedAt":
             index_name = "recipes-production-by-publishedAt-desc"
 
+        algolia_key = self._get_algolia_key()
         url = f"https://{ALGOLIA_APP_ID.lower()}-dsn.algolia.net/1/indexes/*/queries"
         headers = {
             "x-algolia-application-id": ALGOLIA_APP_ID,
-            "x-algolia-api-key": ALGOLIA_SEARCH_KEY,
+            "x-algolia-api-key": algolia_key,
             "Content-Type": "application/json"
         }
         params = f"query={query}&page={page}&hitsPerPage={hits_per_page}"
@@ -679,6 +756,12 @@ class CookidooClient:
             ]
         }
         resp = self._http.post(url, headers=headers, json=payload, timeout=10.0)
+        if resp.status_code in (400, 403):
+            # Refresh expired key and retry once
+            algolia_key = self._get_algolia_key(force_refresh=True)
+            headers["x-algolia-api-key"] = algolia_key
+            resp = self._http.post(url, headers=headers, json=payload, timeout=10.0)
+
         if resp.status_code != 200:
             raise CookidooError(f"Search failed with code {resp.status_code}")
 

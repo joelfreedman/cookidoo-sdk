@@ -114,17 +114,30 @@ recipes = client.get_created_recipes()
 for r in recipes:
     print(f"{r.name} - Photo: {r.image} - {len(r.ingredients)} ingredients, {len(r.instructions)} steps")
 
-# Create a new custom recipe
+# Create a new rich custom recipe with TM7 guided cooking
 new_recipe = client.create_custom_recipe(
-    name="Homemade Sourdough",
-    ingredients=["500 g bread flour", "350 g water", "100 g starter", "10 g salt"],
-    instructions=["Add water and starter, mix 2 min/speed 3.", "Add flour and knead 5 min."],
+    name="Gourmet Wild Mushroom Risotto",
+    ingredients=[
+        "40 g Parmesan cheese",
+        "150 g shallots, halved",
+        "40 g olive oil",
+        "300 g Arborio rice",
+        "750 g hot stock"
+    ],
+    instructions=[
+        "Weigh 40 g Parmesan into mixing bowl. Grate 10 sec/speed 10.",
+        "Weigh 150 g shallots and 40 g olive oil into bowl. Chop 5 sec/speed 5.",
+        "Sauté 3 min/120°C/speed 1 without measuring cup.",
+        "Weigh 300 g rice. Toast 3 min/100°C/\ue003/speed 1 (reverse).",
+        "Weigh 750 g stock. Cook 12 min/Varoma/\ue003/speed 1 (reverse)."
+    ],
     portions=4,
-    tool="TM6"
+    tools=["TM7", "TM6"]  # Supports TM7, TM6, TM5
 )
+print("Appliances:", new_recipe.tools)
 
 # Upload a photo directly to Vorwerk Cloudinary and link it to recipe
-updated = client.upload_recipe_image(new_recipe.recipeId, "sourdough.jpg")
+updated = client.upload_recipe_image(new_recipe.recipeId, "risotto.jpg")
 print("Photo URL:", updated.image)
 
 # Remove photo (resets to Cookidoo default placeholder)

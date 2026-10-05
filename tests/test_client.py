@@ -118,6 +118,29 @@ def test_create_and_delete_custom_recipe(client):
     assert deleted is True
 
 
+def test_create_tm7_recipe_with_rich_instructions(client):
+    test_name = "Pytest TM7 Guided Risotto"
+    recipe = client.create_custom_recipe(
+        name=test_name,
+        ingredients=["40 g Parmesan cheese", "300 g Arborio rice"],
+        instructions=[
+            "Weigh 40 g Parmesan cheese into mixing bowl. Grate 10 sec/speed 10.",
+            "Weigh in 300 g Arborio rice. Sauté 3 min/120°C/\ue003/speed 1 without measuring cup."
+        ],
+        portions=4,
+        tools=["TM7", "TM6"]
+    )
+    assert isinstance(recipe, CustomRecipe)
+    assert recipe.recipeId is not None
+    assert recipe.name == test_name
+    assert "TM7" in recipe.tools
+    assert len(recipe.instructions) == 2
+
+    # Clean up
+    deleted = client.delete_custom_recipe(recipe.recipeId)
+    assert deleted is True
+
+
 def test_custom_list_lifecycle(client):
     test_title = "Pytest Temporary Collection"
     test_recipe = "r63350"

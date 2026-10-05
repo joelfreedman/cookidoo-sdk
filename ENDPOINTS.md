@@ -182,23 +182,99 @@ Once cookies are stored, subsequent API requests can run directly over standard 
 - **Payload**:
   ```json
   {
-    "recipeContent": {
-      "name": "My Custom Bread",
-      "recipeIngredient": [],
-      "recipeInstructions": [],
-      "tool": ["TM6"],
-      "recipeYield": { "value": 4, "unitText": "portion" }
-    }
+    "recipeName": "My Custom Dish"
+  }
+  ```
+- **Response**: Returns `{"recipeId": "01M..."}`.
+
+### D. Update (PATCH) Custom Recipe & TM7 Device Compatibility
+- **URL**: `PATCH https://cookidoo.thermomix.com/created-recipes/{locale}/{recipeId}`
+- **Device Appliances Field (`tools`)**:
+  Cookidoo supports **TM7**, **TM6**, and **TM5**.
+  ```json
+  {
+    "tools": ["TM7", "TM6"]
+  }
+  ```
+  *(Note: The PATCH payload uses the plural `"tools"`, while the GET response returns `"tool"` inside `recipeContent`)*.
+
+- **Ingredients Array**:
+  ```json
+  {
+    "ingredients": [
+      { "type": "INGREDIENT", "text": "40 g Parmesan cheese, cut in cubes" },
+      { "type": "INGREDIENT", "text": "300 g Arborio risotto rice" }
+    ]
   }
   ```
 
-### D. Update (PATCH) Custom Recipe
-- **URL**: `PATCH https://cookidoo.thermomix.com/created-recipes/{locale}/{recipeId}`
-- **Payload**: Structured `recipeContent` with:
-  - Ingredients array
-  - Instructions array with TTS Thermomix annotations:
-    - Time/Temp/Speed: e.g. `"3 min/37°C/speed 2"`
-    - Reverse blade direction: `\ue003` (or ``)
+- **Structured Instructions & Thermomix Guided-Cooking Chips**:
+  Instructions can be saved either as natural text (which the Thermomix device engine parses automatically) or as rich step objects with explicit `annotations`:
+
+  ```json
+  {
+    "instructions": [
+      {
+        "type": "STEP",
+        "text": "Weigh 40 g Parmesan cheese into mixing bowl. Grate 10 sec/speed 10.",
+        "annotations": [
+          {
+            "type": "INGREDIENT",
+            "data": { "description": "Parmesan cheese", "notes": null },
+            "position": { "offset": 6, "length": 15 }
+          },
+          {
+            "type": "TTS",
+            "data": {
+              "time": "10",
+              "speed": "10",
+              "temperature": null,
+              "direction": "NORMAL"
+            },
+            "position": { "offset": 50, "length": 16 }
+          }
+        ]
+      },
+      {
+        "type": "STEP",
+        "text": "Sauté 3 min/120°C/\ue003/speed 1 without measuring cup."
+      },
+      {
+        "type": "STEP",
+        "text": "Knead Dough \ue001/2 min.",
+        "annotations": [
+          {
+            "type": "MODE",
+            "name": "DOUGH",
+            "data": { "time": "120" }
+          }
+        ]
+      }
+    ]
+  }
+  ```
+
+  #### Supported Thermomix Guided-Cooking Settings:
+  - **Weights / Scales**: Natural text matching `"Weigh <amount> <unit> <ingredient>..."` triggers the digital scale overlay button on TM6/TM7 screens.
+  - **Temperatures**:
+    - `37°C` – `120°C` (in 5°C increments) / `100°F` – `250°F`
+    - `120°C` / High Temp Sauté
+    - `Varoma` (maximum steam cooking temperature)
+  - **Speeds**:
+    - `Soft` (speed 0.5 - gentle stirring)
+    - `0.5` through `10.0` (in 0.5 increments)
+    - `Turbo` (high speed pulsed chopping)
+  - **Blade Rotation Direction**:
+    - `NORMAL` (clockwise cutting blade)
+    - `REVERSE` (`\ue003` counter-clockwise blunt edge rotation for risottos, stews, and delicate ingredients)
+  - **Modes**:
+    - `DOUGH` (`\ue001` - interval kneading)
+    - `BROWNING` (high temp searing)
+    - `TURBO` (pulse blending)
+    - `STEAMING`
+    - `BLEND`
+    - `WARM_UP`
+    - `RICE_COOKER` (automated absorption cooking)
 
 ### E. Delete Custom Recipe
 - **URL**: `DELETE https://cookidoo.thermomix.com/created-recipes/{locale}/{recipeId}`
